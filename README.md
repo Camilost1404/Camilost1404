@@ -29,7 +29,3 @@ I'm committed to continuous improvement, staying updated with the latest technol
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Camilost1404&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilost1404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-# Thank you for visiting my profile

@@ -32,4 +32,4 @@ I'm committed to continuous improvement, staying updated with the latest technol
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Thank you for visiting my profile

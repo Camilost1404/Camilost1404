@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Camilost1404&icon=4&color=2)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 👋 Hi there! I'm Andrés Torres, a passionate Backend Software Engineer specializing in Python/Django and Microsoft technologies. With a solid background in software development, I thrive on creating efficient, scalable, and secure backend solutions.
 

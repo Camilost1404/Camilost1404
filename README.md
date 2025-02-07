@@ -3,7 +3,7 @@
 
 
 # 🌟 What I Do:
-- Backend Development: Crafting robust backend systems using Python, Django, .NET, C#, and ASP.NET.
+- Backend Development: Crafting robust backend systems using Python, Django, and DRF.
 - Database Management: Expertise in SQL Server, ensuring data integrity and performance.
 - Full-Stack Knowledge: Basic frontend skills with a knack for integrating seamless user experiences.
 
